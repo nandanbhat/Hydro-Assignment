@@ -7,7 +7,7 @@ This is the front end of the Hydro box dex project with custom orderbook.
 
 Clone Repository 
 ```sh
-git clone https://github.com/nandanbhat/react-hydro.git
+git clone https://github.com/nandanbhat/Hydro-Assignment.git
 ```
 
 Change working directory
